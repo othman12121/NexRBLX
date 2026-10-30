@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nex_bg">#FF07040F</color>
+    <style name="Theme.Nex" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/nex_bg</item>
+        <item name="android:statusBarColor">@color/nex_bg</item>
+        <item name="android:navigationBarColor">@color/nex_bg</item>
+    </style>
+</resources>

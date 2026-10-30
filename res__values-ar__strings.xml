@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_search">بحث</string>
+    <string name="nav_favs">المفضلة</string>
+    <string name="nav_about">حول</string>
+    <string name="games">الألعاب</string>
+    <string name="latest">أحدث السكربتات</string>
+    <string name="popular">الأكثر مشاهدة</string>
+    <string name="search_hint">ابحث باسم السكربت أو اللعبة</string>
+    <string name="f_all">الكل</string>
+    <string name="f_universal">عام</string>
+    <string name="f_nokey">بدون مفتاح</string>
+    <string name="f_verified">موثّق</string>
+    <string name="f_views">الأكثر مشاهدة</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="no_favs">لا توجد عناصر في المفضلة بعد. اضغط على القلب لحفظ أي عنصر.</string>
+    <string name="offline_banner">أنت غير متصل. تُعرض البيانات المحفوظة.</string>
+    <string name="search_offline">تعذّر الوصول إلى المصادر. تُعرض النتائج المحفوظة.</string>
+    <string name="last_update">آخر تحديث: %1$s</string>
+    <string name="load_more">عرض المزيد</string>
+    <string name="refresh_now">تحديث الآن</string>
+    <string name="open_original">فتح الصفحة الأصلية</string>
+    <string name="add_fav">إضافة إلى المفضلة</string>
+    <string name="remove_fav">إزالة من المفضلة</string>
+    <string name="back">رجوع</string>
+    <string name="source">المصدر</string>
+    <string name="added">تاريخ الإضافة</string>
+    <string name="updated">آخر تحديث</string>
+    <string name="views">المشاهدات</string>
+    <string name="free">مجاني</string>
+    <string name="paid">مدفوع</string>
+    <string name="universal">عام</string>
+    <string name="verified">موثّق</string>
+    <string name="no_key">بدون مفتاح</string>
+    <string name="key_required">يتطلب مفتاحاً</string>
+    <string name="patched">مغلق (Patched)</string>
+    <string name="dev_by">تطوير B7Team</string>
+    <string name="powered_sb">Powered by ScriptBlox.com</string>
+    <string name="data_rs">بيانات من RoScripts.io</string>
+    <string name="about_sources">المصادر</string>
+    <string name="version">الإصدار %1$s</string>
+    <string name="about_note">يعرض NexRBLX العناوين وأسماء الألعاب والصور والتواريخ وعدد المشاهدات فقط. كل عنصر يرتبط بصفحته الأصلية. لا يُخزَّن ولا يُعرض أي كود سكربت داخل التطبيق.</string>
+    <string name="bg_note">تتحدث البيانات تلقائياً عند فتح التطبيق وكل 6 ساعات في الخلفية. تبقى البيانات المحفوظة متاحة بدون إنترنت.</string>
+</resources>
