@@ -15,6 +15,9 @@ jobs:
           mv ./*.kt app/src/main/java/com/nexrblx/app/ || true
           mv AndroidManifest.xml app/src/main/
           mv app.gradle.kts app/build.gradle.kts
+          # bundled offline copy of the data (same file the app downloads online)
+          mkdir -p app/src/main/res/raw
+          cp data.json app/src/main/res/raw/nex_data.json
           for f in res__*; do
             [ -e "$f" ] || continue
             d="app/src/main/$(echo "$f" | sed 's/__/\//g')"

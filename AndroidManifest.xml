@@ -6,11 +6,10 @@
 
     <application
         android:label="NexRBLX"
-        android:icon="@mipmap/ic_launcher"
-        android:roundIcon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:allowBackup="true"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Nex">
+        android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true"
